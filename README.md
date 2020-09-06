@@ -2,7 +2,7 @@
 
 ## _Vecta Corporation_'s Website
 
-### Repository for assignment 1 of CS648**
+### Repository for assignment 1 of CS648
 
 #### About
 
